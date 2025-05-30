@@ -10,15 +10,6 @@ body {
 p {
   font-family: Brush Script MT;
   background-color: rgba(25, 28, 36, 0.7);
-  width: 400px;
-  text-align: center;
-  margin-left: auto;
-  margin-right: auto;
-  border-radius: 10px;
-}
-p2 {
-  font-family: Brush Script MT;
-  background-color: rgba(25, 28, 36, 0.7);
   width: 600px;
   text-align: center;
   margin-left: auto;
